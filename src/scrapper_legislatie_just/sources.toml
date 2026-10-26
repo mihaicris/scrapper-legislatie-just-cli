@@ -377,3 +377,9 @@ descriere = """
 Reglementează drepturile și beneficiile persoanelor cu handicap, inclusiv facilități fiscale
 și indemnizații specifice.
 """
+
+[[sources]]
+numar_link = 109855
+nume = "Codul Penal nr. 286/2009"
+slug = "codul-penal"
+descriere = "Codul penal este actul normativ care reunește normele fundamentale ale dreptului penal, definind faptele care constituie infracțiuni și stabilind pedepsele și măsurile aplicabile pentru acestea."
