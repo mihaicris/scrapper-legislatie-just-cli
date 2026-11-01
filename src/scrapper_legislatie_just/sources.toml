@@ -383,3 +383,9 @@ numar_link = 109855
 nume = "Codul Penal nr. 286/2009"
 slug = "codul-penal"
 descriere = "Codul penal este actul normativ care reunește normele fundamentale ale dreptului penal, definind faptele care constituie infracțiuni și stabilind pedepsele și măsurile aplicabile pentru acestea."
+
+[[sources]]
+numar_link = 7037
+nume = "Hotarare nr. 518/1995"
+slug = "hotarare-obligatii-strainatate"
+descriere = "HOTĂRÂRE nr. 518 din 10 iulie 1995 privind unele drepturi și obligații ale personalului român trimis în străinătate pentru îndeplinirea unor misiuni cu caracter temporar"
