@@ -616,3 +616,19 @@ numar_link = 7037
 nume = "Hotarare nr. 518/1995"
 slug = "hotarare-obligatii-strainatate"
 descriere = "HOTĂRÂRE nr. 518 din 10 iulie 1995 privind unele drepturi și obligații ale personalului român trimis în străinătate pentru îndeplinirea unor misiuni cu caracter temporar"
+
+
+[[sources]]
+numar_link = 112430
+nume = "Ordin nr. 2861/2009"
+slug = "ordin-inventariere"
+descriere = "ORDIN nr. 2.861 din 9 octombrie 2009 pentru aprobarea Normelor privind organizarea și efectuarea inventarierii elementelor de natura activelor, datoriilor și capitalurilor proprii"
+
+
+[[sources]]
+numar_link = 112431
+nume = "NORME din 9 octombrie 2009 privind organizarea și efectuarea inventarierii elementelor de natura activelor, datoriilor și capitalurilor proprii"
+slug = "norme-inventariere"
+descriere = """
+Stabilesc regulile de organizare și efectuare a inventarierii: răspunderea administratorului, numirea și componența comisiei de inventariere prin decizie scrisă, declarațiile gestionarului la începutul și la sfârșitul inventarierii, întocmirea listelor de inventariere și a procesului-verbal, stabilirea și regularizarea diferențelor (lipsuri, plusuri, compensare, perisabilități), evaluarea elementelor la data inventarierii și înregistrarea rezultatelor în contabilitate și în registrul-inventar.
+"""
