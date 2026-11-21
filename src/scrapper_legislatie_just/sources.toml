@@ -632,3 +632,33 @@ slug = "norme-inventariere"
 descriere = """
 Stabilesc regulile de organizare și efectuare a inventarierii: răspunderea administratorului, numirea și componența comisiei de inventariere prin decizie scrisă, declarațiile gestionarului la începutul și la sfârșitul inventarierii, întocmirea listelor de inventariere și a procesului-verbal, stabilirea și regularizarea diferențelor (lipsuri, plusuri, compensare, perisabilități), evaluarea elementelor la data inventarierii și înregistrarea rezultatelor în contabilitate și în registrul-inventar.
 """
+
+
+[[sources]]
+numar_link = 305848
+nume = "ORDIN ANAF nr. 2.736 din 23 decembrie 2025 (formularul 212)"
+slug = "ordin-declaratia-unica-d212"
+descriere = """
+Aprobă modelul, conținutul, modalitatea de depunere și de gestionare a formularului 212 "Declarație unică
+privind impozitul pe venit și contribuțiile sociale datorate de persoanele fizice", începând cu veniturile din 2025.
+"""
+
+
+[[sources]]
+numar_link = 306268
+nume = "ANEXE la Ordinul ANAF nr. 2.736/2025 - formularul 212 și instrucțiunile de completare"
+slug = "instructiuni-completare-declaratia-d212"
+descriere = """
+Anexa 1: modelul formularului 212 (Declarația unică). Anexa 2: instrucțiunile de completare pe secțiuni și
+rânduri (venituri, impozit, CAS, CASS, termene). Anexa 3: caracteristicile de editare și păstrare.
+"""
+
+
+[[sources]]
+numar_link = 306252
+nume = "PROCEDURA din 19 decembrie 2025 de precompletare a formularului 212 (Ordinul ANAF nr. 2.719/2025)"
+slug = "procedura-precompletare-declaratia-d212"
+descriere = """
+Procedura de precompletare, verificare și transmitere a Declarației unice (formularul 212) prin SPV sau la
+organul fiscal, inclusiv termenul de depunere.
+"""
